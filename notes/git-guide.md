@@ -1,5 +1,4 @@
-```Marksown
-
+```marksown
     # Git Study Notes 🚀
      
     ## 1. Local Repository Setup
