@@ -1,6 +1,6 @@
 
 
-    # Introduction to the Internet
+# Introduction to the Internet
      
     ## 1. Overview
     The Internet is a "network of networks"—a global system of interconnected devices and computer networks. It originated in the late 1960s (developed by the US Department of Defense) as a decentralized communication system designed to survive major infrastructure damage.
