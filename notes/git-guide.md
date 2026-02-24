@@ -37,7 +37,7 @@
      
     ---
      
-    ## 5. Pro Tips (Backend Edition)
+    ## 5. Tips
     * `git blame <file>` - See who changed each line of a file.
     * `git diff` - Show changes between commits, commit and working tree, etc.
     * `git commit --amend` - Edit the last commit (change message or add forgotten files).
