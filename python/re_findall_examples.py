@@ -6,7 +6,7 @@ import re
 
 # --- 1. Simple word search ---
 result = re.findall(r'cat', "my cat and kitten and another cat")
-print(result)  # ['cat', 'cat', 'cat'] — found 3 times ("kitten" also contains "cat")
+print(result)  # ['cat', 'cat']
 
 # --- 2. \d — digits ---
 result = re.findall(r'\d+', "I am 25 years old, I have 3 cats and 12 fish")
@@ -159,3 +159,4 @@ print(result)  # ['Hello', 'hello']
 expression = "312 + 42 / 3 * 2.5 - 1"
 result = re.findall(r'\d+\.?\d*|[+\-*/]', expression)
 print(result)  # ['312', '+', '42', '/', '3', '*', '2.5', '-', '1']
+
